@@ -1,0 +1,3 @@
+function drag (argument) {
+    // body...
+}
