@@ -1,0 +1,77 @@
+body { padding-right: 0px; padding-left: 0px; font-size: 13px; background: #fff; padding-bottom: 0px; margin: 0px; color: #666; padding-top: 0px; font-family: "ËÎÌå" }
+a { color: #346c03; text-decoration: underline }
+a:hover { color: #f60; text-decoration: underline }
+ul { list-style:none; }
+h2 { font-size:12px; padding:9px; }
+#header { padding-right: 10px; padding-left: 10px; background: #e5f1d9; padding-bottom: 0px; line-height: 200%; padding-top: 0px; border-bottom: #a2ca69 1px solid }
+#header span { float: right }
+#logo { padding-right: 10px; padding-left: 10px; padding-bottom: 10px; width: 350px; padding-top: 10px; height: 50px }
+#logo img { float: left }
+img { border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px }
+h1 { padding-right: 0px; padding-left: 0px; font-weight: normal; font-size: 20px; float: left; padding-bottom: 0px; margin: 0px 0px 0px 10px; padding-top: 20px; font-family: "ºÚÌå" }
+p { margin-top: 2px; margin-bottom: 10px; padding-bottom: 0px; margin-left: 0px; width: 85%; border-bottom: #e5ebf9 1px solid }
+#keyword { font-size: 16px; width: 312px; color: #ccc; line-height: 20px; height: 20px }
+#more { padding-right: 10px; padding-left: 10px; padding-bottom: 10px; margin: 50px auto 0px; width: 400px; line-height: 200%; padding-top: 10px }
+#copyright { clear: both; padding-right: 5px; padding-left: 5px; padding-bottom: 5px; margin: 20px auto; width: 500px; line-height: 150%; padding-top: 5px; text-align: center }
+#copyright a { color: #7777cc }
+#copyright span { font-size: 12px; color: #666; font-family: arial, helvetica, sans-serif }
+.rightnav { display: inline; right: 9px; color: #2a4286; position: absolute }
+.bjline01 { padding-left: 0px; background: url(../img/l1pic.gif) no-repeat; color: #ea0000 }
+.bjline02 { padding-left: 0px; background: url(../img/l2pic.gif) no-repeat; color: #40406e }
+.bjline03 { padding-left: 0px; background: url(../img/l5pic.gif) no-repeat; color: #7c0181 }
+.bjline04 { padding-left: 0px; background: url(../img/l8pic.gif) no-repeat; color: #1a5c00 }
+.bjline05 { padding-left: 0px; background: url(../img/lapic.gif) no-repeat; color: #787978 }
+.bjline06 { padding-left: 0px; background: url(../img/batong.gif) no-repeat; color: #ad360b }
+.bjline07 { padding-left: 0px; background: url(../img/l10pic.gif) no-repeat; color: #288a01 }
+.bjline08 { padding-left: 0px; background: url(../img/l13pic.gif) no-repeat; color: #fcc330 }
+.tjline01 { padding-left: 0px; background: url(../img/l1pic.gif) no-repeat; color: #ea0000 }
+.tjline02 { padding-left: 0px; background: url(../img/tjl9.gif) no-repeat; color: #7c0181 }
+njline01 { padding-left: 0px; background: url(../img/l1pic.gif) no-repeat; color: #ea0000 }
+.njline02 { padding-left: 0px; background: url(../img/njl2.gif) no-repeat; color: #ce6b00 }
+.njline03 { padding-left: 0px; background: url(../img/njl3.gif) no-repeat; color: #7c0181 }
+.shline01 { padding-left: 0px; background: url(../img/l1pic.gif) no-repeat; color: #ea0000 }
+.shline02 { padding-left: 0px; background: url(../img/shl2.gif) no-repeat; color: #288a01 }
+.shline03 { padding-left: 0px; background: url(../img/shl3.gif) no-repeat; color: #fcc330 }
+.shline04 { padding-left: 0px; background: url(../img/shl4.gif) no-repeat; color: #40406e }
+.shline05 { padding-left: 0px; background: url(../img/shl5.gif) no-repeat; color: #7c0181 }
+.shline06 { padding-left: 0px; background: url(../img/shl6.gif) no-repeat; color: #cc0066 }
+.shline07 { padding-left: 0px; background: url(../img/shl7.gif) no-repeat; color: #0185c2 }
+.shline08 { padding-left: 0px; background: url(../img/shl8.gif) no-repeat; color: #01acb6 }
+.gzline01 { padding-left: 0px; background: url(../img/gzl1.gif) no-repeat; color: #ffb800 }
+.gzline02 { padding-left: 0px; background: url(../img/gzl2.gif) no-repeat; color: #40406e }
+.gzline03 { padding-left: 0px; background: url(../img/gzl3.gif) no-repeat; color: #be6301 }
+.gzline04 { padding-left: 0px; background: url(../img/gzl4.gif) no-repeat; color: #288a01 }
+.content { border-top-width: 0px; padding-right: 0px; padding-left: 0px; border-left-width: 0px; border-bottom-width: 0px; padding-bottom: 10px; margin: 0px auto; padding-top: 10px; text-align: center; border-right-width: 0px }
+.content img { margin: 0px auto }
+.content area { }
+.stationexit { clear: both; padding-right: 5px; padding-left: 5px; padding-bottom: 5px; margin: 20px auto; width: 800px; line-height: 150%; padding-top: 5px; text-align: center }
+.exitx { float: left; width: 365px; line-height: 26px }
+.exitx p { padding-right: 20px; padding-left: 20px; padding-bottom: 14px; padding-top: 0px }
+.exitx div { padding-right: 20px; padding-left: 20px; padding-bottom: 14px; padding-top: 0px }
+.exitx b { font-weight: normal }
+.exitx a { color: #1e3a82; white-space: nowrap; text-decoration: underline }
+.exitx a:hover { text-decoration: none }
+.exitx li { margin: 0px 20px }
+.topli { padding-top: 15px }
+.botli { padding-bottom: 15px }
+.infocontent { margin: 10px auto; width: 812px }
+.leftmap { border-right: #b8d0ef 1px solid; border-top: #b8d0ef 1px solid; border-left: #b8d0ef 1px solid; width: 812px; border-bottom: #b8d0ef 1px solid }
+.stationmap { text-align: center }
+.stationpic { border-right: #ccc 0px solid; border-top: #ccc 0px solid; margin: 15px auto; border-left: #ccc 0px solid; border-bottom: #ccc 0px solid; position: relative }
+.larrow img { cursor: pointer }
+.rarrow img { cursor: pointer }
+.larrow { padding-right: 10px; padding-left: 10px; left: 0px; padding-bottom: 0px; padding-top: 0px; position: absolute; top: 190px }
+.rarrow { padding-right: 10px; padding-left: 10px; right: 0px; padding-bottom: 0px; padding-top: 0px; position: absolute; top: 190px }
+.timebox01 { border-right: #b8d0ef 1px solid; border-top: #b8d0ef 1px solid; margin: 15px auto 0px; border-left: #b8d0ef 1px solid; width: 800px; border-bottom: #b8d0ef 1px solid; position: relative; height: 225px; text-align: center }
+.infoboxheader { padding-right: 2px; padding-left: 2px; background: #b8d0ef; padding-bottom: 2px; width: 812px; color: #000000; padding-top: 5px; height: 27px; text-align: center }
+.infotable td { color: #000000; text-align: center }
+.infotable table { margin: 0px auto; border-collapse: collapse; text-align: center }
+.infotable tr { border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px }
+.footernav {}
+.foottitle{ border: #b8d0ef 1px solid; height:100px; background:#f00 url(../images/navbg01.gif) repeat-x; margin: 10px; border:2px #666 solid; }
+.subscontent { margin: 14px 16px 20px; text-align: left }
+.stacontent { border-right: #e9f4ff 1px solid; border-top: #e9f4ff 0px solid; background: url(station/stationbg01.gif) repeat-x; border-left: #e9f4ff 1px solid; border-bottom: #e9f4ff 0px solid }
+.stacontent h2 { padding-right: 36px; padding-left: 36px; font-weight: normal; font-size: 12px; background: url(station/blacktrain.gif) no-repeat 6% 50%; padding-bottom: 6px; width: 155px; padding-top: 6px }
+.stacontent p { padding-right: 27px; padding-left: 27px; padding-bottom: 5px; width: 1350px; color: #2a4286; line-height: 25px; padding-top: 5px }
+.stacontent a { color: #2a4286; text-decoration: none! important }
+.stacontent a:hover { text-decoration: underline! important }
