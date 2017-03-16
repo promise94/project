@@ -1,1 +1,0 @@
-<%response.Redirect("Zhuna_login.asp")%>
